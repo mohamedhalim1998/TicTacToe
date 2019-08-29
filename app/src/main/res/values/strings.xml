@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="o_score">O Score : <xliff name="score" example="5">%d</xliff></string>
+    <string name="x_score">X Score : <xliff name="score" example="5">%d</xliff></string>
+    <string name="tie_score">Tie : <xliff name="score" example="5">%d</xliff></string>
+
+    <string name="play_again">play Again</string>
+    <string name="win_message"><xliff name="winner" example="O">%s</xliff> win the game</string>
+
+</resources>
